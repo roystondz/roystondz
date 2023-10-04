@@ -19,8 +19,7 @@
 
 🌟 Highlights:
 - Created A Weather Forecast App
-- [List any important contributions to open source projects]
-- [Any other accomplishments or interesting facts]
+
 
 📫 You can reach me at roystonad2004@gmail.com or connect with me on LinkedIn/Twitter.
 
