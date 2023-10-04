@@ -7,7 +7,7 @@
 🌐 
 📧 roystonad2004@gmail.com
 📚 www.linkedin.com/in/royston-dsouza-511091247
-🐦 https://twitter.com/roy_dz_
+🐦 https://twitter.com/roy_dz_/
 
 👨‍💻 Student at NMAMIT  | Open Source Enthusiast
 
