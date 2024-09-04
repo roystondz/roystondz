@@ -13,14 +13,11 @@
 
 🚀 I'm passionate about technology and open source. My goal is to contribute to the community and create new thoughts and projects that makes a positive impact.
 
-🌱 I'm currently exploring the world of computer Science
-
-🔭 I'm actively working on Data Analysis and Front End Web Development
+🌱 I'm currently exploring the world of computer Science.
 
 🌟 Highlights:
 - Created A Weather Forecast App
 - Created An App for musicians to interact with eachother.
-- 
 
 
 📫 You can reach me at roystonad2004@gmail.com or connect with me on LinkedIn/Twitter.
