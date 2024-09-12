@@ -4,7 +4,6 @@
 
 👋 Hello, I'm Royston Akash Dsouza!
 
-🌐 
 📧 roystonad2004@gmail.com
 📚 www.linkedin.com/in/royston-dsouza-511091247
 🐦 https://twitter.com/roy_dz_/
