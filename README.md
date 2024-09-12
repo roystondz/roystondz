@@ -19,7 +19,4 @@
 - Created A Weather Forecast App
 - Created An App for musicians to interact with eachother.
 
-
-📫 You can reach me at roystonad2004@gmail.com or connect with me on LinkedIn/Twitter.
-
 Let's collaborate and build amazing things together! 🤝
