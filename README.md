@@ -16,6 +16,9 @@
 
 🌟 Highlights:
 - Created A Weather Forecast App
-- Created An App for musicians to interact with eachother.
+- Created An Website for musicians to interact with eachother.
+- Created A Portfolio
+- Campus Connect (Currently working)
+- Learners View (Currently working)
 
 Let's collaborate and build amazing things together! 🤝
