@@ -1,5 +1,4 @@
-https://www.holopin.io/@roystondz#
-
+[![An image of @roystondz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roystondz)](https://holopin.io/@roystondz)
 
 ### Hi there 👋
 
