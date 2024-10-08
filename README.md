@@ -15,7 +15,7 @@
 🌱 I'm currently exploring the world of computer Science.
 
 🌟 Highlights:
-- Created A Weather Forecast App
+- Created A Weather Forecast Website
 - Created An Website for musicians to interact with eachother.
 - Created A Portfolio
 - Campus Connect (Currently working)
