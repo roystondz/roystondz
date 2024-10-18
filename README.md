@@ -24,3 +24,4 @@
 - Learners View (Currently working)
 
 Let's collaborate and build amazing things together! 🤝
+[![](https://visitcount.itsvg.in/api?id=roy&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
