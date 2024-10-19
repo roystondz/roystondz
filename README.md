@@ -17,6 +17,12 @@
 🌱 I'm currently exploring the world of computer Science.
 
 ### Tools and Tech
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py,r,react,replit,tailwind,vscode" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py,r,react,replit,tailwind,vscode)](https://skillicons.dev)
 
 🌟 Highlights:
