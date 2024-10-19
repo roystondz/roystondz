@@ -4,13 +4,11 @@
   </a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ### Hi there 👋
 
 
 
-👋 Hello, I'm Royston Akash Dsouza!
+👋 Hello, <b> I'm Royston Akash Dsouza! </b>
 
 📧 roystonad2004@gmail.com
 📚 www.linkedin.com/in/royston-dsouza-511091247
