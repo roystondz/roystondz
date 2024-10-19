@@ -16,6 +16,8 @@
 
 🌱 I'm currently exploring the world of computer Science.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,figma,MySQL,PostgreSQL,Python,React.js)](https://skillicons.dev)
+
 🌟 Highlights:
 - Created A Weather Forecast Website
 - Created An Website for musicians to interact with eachother.
