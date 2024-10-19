@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://quotes-github-readme.vercel.app">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" />
+  </a>
+</p>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Hi there 👋
@@ -28,7 +34,6 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py,r,react,replit,tailwind,vscode)](https://skillicons.dev)
 
 🌟 Highlights:
 - Created A Weather Forecast Website
