@@ -1,4 +1,4 @@
-[![An image of @roystondz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roystondz)](https://holopin.io/@roystondz)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Hi there 👋
 
