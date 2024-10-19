@@ -19,7 +19,12 @@
 ### Tools and Tech
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py,r,react,replit,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode" />
   </a>
 </p>
 
