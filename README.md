@@ -26,5 +26,8 @@
 - Campus Connect (Currently working)
 - Learners View (Currently working)
 
+
+[![Roys's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz)](https://github.com/anuraghazra/github-readme-stats)
+
 Let's collaborate and build amazing things together! 🤝
 [![](https://visitcount.itsvg.in/api?id=roy&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
