@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode,vercel,vite" />
   </a>
 </p>
 
