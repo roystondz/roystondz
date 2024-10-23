@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://quotes-github-readme.vercel.app">
-    [![Roys's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
