@@ -40,6 +40,11 @@
 - Campus Connect (Currently working)
 - Learners View (Currently working)
 
+<p align="center">
+  <a href="https://quotes-github-readme.vercel.app">
+    [![Roys's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+</p>
 
 Let's collaborate and build amazing things together! 🤝
 <br>
