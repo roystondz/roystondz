@@ -40,6 +40,7 @@
 - Campus Connect (Currently working)
 - Learners View (Currently working)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz&show_icons=true&theme=radical)
 
 Let's collaborate and build amazing things together! 🤝
 <br>
