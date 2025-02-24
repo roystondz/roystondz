@@ -32,14 +32,6 @@
   </a>
 </p>
 
-
-🌟 Highlights:
-- Created A Weather Forecast Website
-- Created An Website for musicians to interact with eachother.
-- Created A Portfolio
-- Campus Connect (Currently working)
-- Learners View (Currently working)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz&show_icons=true&theme=radical)
 
 Let's collaborate and build amazing things together! 🤝
