@@ -23,12 +23,12 @@
 ### Tools and Tech
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode,flutter" />
   </a>
 </p>
 
