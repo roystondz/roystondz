@@ -33,7 +33,7 @@
 <div>
   <p align="center">
   <a href="https://quotes-github-readme.vercel.app">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" />
   </a>
 </p>
 
