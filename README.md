@@ -24,9 +24,9 @@
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/roystondz/Blog.v2">
+<!--   <a href="https://github.com/roystondz/Blog.v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=roystondz&repo=Blog.v2&theme=radical&hide_border=true" />
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/your-username/project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical&hide_border=true" />
   </a> -->
