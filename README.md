@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://quotes-github-readme.vercel.app">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" />
-  </a>
-</p>
-
-### Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Royston%20Dsouza&fontSize=80&fontAlignY=35&animation=twinkling" />
 </div>
@@ -39,7 +31,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical&hide_border=true" />
   </a> -->
 </div>
+<div>
+  <p align="center">
+  <a href="https://quotes-github-readme.vercel.app">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes" />
+  </a>
+</p>
 
+</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=roystondz&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
