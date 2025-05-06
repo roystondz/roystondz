@@ -6,34 +6,48 @@
 
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Royston%20Dsouza&fontSize=80&fontAlignY=35&animation=twinkling" />
+</div>
 
+<h1 align="center">Computer Science Engineer</h1>
 
-👋 Hello, <b> I'm Royston Akash Dsouza! </b>
-
-📧 roystonad2004@gmail.com
-📚 www.linkedin.com/in/royston-dsouza-511091247
-🐦 https://twitter.com/roy_dz_/
-
-👨‍💻 Student at NMAMIT  | Open Source Enthusiast
-
-🚀 I'm passionate about technology and open source. My goal is to contribute to the community and create new thoughts and projects that makes a positive impact.
-
-🌱 I'm currently exploring the world of computer Science.
-
-### Tools and Tech
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,java,figma,cpp,eclipse,express,git,github,nodejs,npm,postgres,mongodb" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,react,replit,tailwind,vscode,flutter" />
-  </a>
+  <a href="https://roystondsouzav3.vercel.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
+  <a href="mailto:roystonad2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/royston-akash-dsouza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roystondz&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roystondz&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roystondz&layout=compact&theme=radical&hide_border=true" height="170"/>
+</div>
 
-Let's collaborate and build amazing things together! 🤝
-<br>
-[![](https://visitcount.itsvg.in/api?id=roy&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,docker,git&perline=7" />
+</p>
+
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/roystondz/Blog.v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roystondz&repo=Blog.v2&theme=radical&hide_border=true" />
+  </a>
+  <!-- <a href="https://github.com/your-username/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical&hide_border=true" />
+  </a> -->
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roystondz&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+
+
+
