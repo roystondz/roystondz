@@ -21,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,git&perline=6" />
 </p>
 
-<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 <!--   <a href="https://github.com/roystondz/Blog.v2">
