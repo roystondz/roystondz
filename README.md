@@ -13,7 +13,7 @@
 <h1 align="center">Computer Science Engineer</h1>
 
 <p align="center">
-  <a href="https://roystondsouzav3.vercel.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
+  <a href="https://roystondsouzav3.vercel.app"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
   <a href="mailto:roystonad2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/royston-akash-dsouza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -26,7 +26,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,docker,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,git&perline=6" />
 </p>
 
 <h2 align="center">Featured Projects</h2>
