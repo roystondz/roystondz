@@ -19,7 +19,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,postgres,git&perline=6" />
+  <br />
+  <img src="https://img.shields.io/badge/Hyperledger-Fabric-blue?logo=hyperledger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motoko-DFINITY-black?logo=internet-computer&logoColor=white" />
 </p>
+
 
 
 <div align="center">
