@@ -38,9 +38,6 @@
 </p>
 
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roystondz&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
