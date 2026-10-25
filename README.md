@@ -1,9 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/front-page-mobile.svg" />
-    <img src="assets/front-page.svg" width="100%" alt="The Daily Royston — today's front page, generated from my GitHub activity" />
-  </picture>
+  <source media="(min-width: 601px)" srcset="assets/front-page.svg" />
+  <img src="assets/front-page-mobile.svg" width="100%" alt="The Daily Royston — today's front page, generated from my GitHub activity" />
+</picture>
 </p>
+
+
 
 <p align="center">
   <sub><i>This front page is reprinted every morning by a GitHub Action from my real commits. <a href="scripts/build-paper.mjs">How it's made →</a></i></sub>
