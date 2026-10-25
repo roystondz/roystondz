@@ -1,0 +1,35 @@
+name: Print The Daily Royston
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 06:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/build-paper.mjs]
+
+permissions:
+  contents: write
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: node scripts/build-paper.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit today's edition
+        run: |
+          git config user.name "the-daily-royston[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/front-page.svg assets/front-page-mobile.svg
+          git diff --cached --quiet || git commit -m "Print edition for $(date -u +%F)"
+          git push
