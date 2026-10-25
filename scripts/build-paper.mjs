@@ -12,7 +12,7 @@ const USER = process.env.PAPER_USER ?? 'roystondz';
 const SURNAME = 'Dsouza';
 const CONTACT = 'roystonad2004@gmail.com';
 const OUT_DIR = process.env.PAPER_OUT_DIR ?? 'assets';
-const TOKEN = process.env.GITHUB_TOKEN;
+const TOKEN = process.env.PAPER_TOKEN;
 
 const DAY = 864e5;
 const now = new Date(process.env.PAPER_DATE ?? Date.now());
