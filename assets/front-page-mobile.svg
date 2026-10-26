@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 360 1425.52" width="360" height="1425.52" role="img" aria-label="The Daily Royston — COMMITS SURGE 300% AS WORK ON RAOMLY ACCELERATES">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 360 1403.52" width="360" height="1403.52" role="img" aria-label="The Daily Royston — COMMITS SURGE 300% AS WORK ON RAOMLY ACCELERATES">
   <defs>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
@@ -31,70 +31,69 @@
     @keyframes live { 50% { opacity: .15; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect width="340" height="1405.52" fill="#f5f0e4" filter="url(#shadow)"/>
-  <rect width="340" height="1405.52" filter="url(#grain)"/>
+  <rect width="340" height="1383.52" fill="#f5f0e4" filter="url(#shadow)"/>
+  <rect width="340" height="1383.52" filter="url(#grain)"/>
   <text x="170" y="44.519999999999996" class="mast" text-anchor="middle" textLength="304" lengthAdjust="spacingAndGlyphs">The Daily Royston</text>
   <text x="170" y="70.52" class="motto" text-anchor="middle">“All the code that’s fit to ship.”</text>
   <rect x="18" y="88.52" width="304" height="1" fill="#1b1a17"/>
-  <text x="170" y="108.52" class="edition" text-anchor="middle">OCT 25, 2026  ·  VOL. IV  ·  NO. 1,459</text>
+  <text x="170" y="108.52" class="edition" text-anchor="middle">OCT 26, 2026  ·  VOL. IV  ·  NO. 1,459</text>
   <rect x="18" y="118.52" width="304" height="3" fill="#1b1a17"/><rect x="18" y="123.52" width="304" height="1" fill="#1b1a17"/>
   <text x="18" y="165.51999999999998" class="head">COMMITS SURGE 300%</text>
   <text x="18" y="195.51999999999998" class="head">AS WORK ON RAOMLY</text>
   <text x="18" y="225.51999999999998" class="head">ACCELERATES</text>
   <text x="18" y="255.51999999999998" class="deck">Latest dispatch from Raomly reads “Fix</text>
   <text x="18" y="277.52" class="deck">typo that broke the saved stays import”.</text>
-  <text x="18" y="299.52" class="deck">Colleagues describe the change as “long</text>
-  <text x="18" y="321.52" class="deck">overdue.”</text>
-  <rect x="18" y="351.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="381.52" class="byline">By our GitHub correspondent  ·  25 Oct, 14:06 UTC</text>
-  <text x="16" y="458.52" class="dropcap" style="font-size:81px">R</text>
-  <text x="88" y="412.52" class="body">oyston Akash Dsouza, the</text>
-  <text x="88" y="435.52" class="body">full-stack developer behind</text>
-  <text x="88" y="458.52" class="body">Raomly, Lisi-re-Luxury and</text>
-  <text x="18" y="481.52" class="body">mcp-server, logged 12 commits this week</text>
-  <text x="18" y="504.52" class="body">across 3 repositories.</text>
-  <text x="18" y="533.52" class="body">When reached for comment, Dsouza said</text>
-  <text x="18" y="556.52" class="body">only that the project was “one more</text>
-  <text x="18" y="579.52" class="body">refactor away” from done. Readers hoping</text>
-  <text x="18" y="602.52" class="body">to collaborate are directed to the</text>
-  <text x="18" y="625.52" class="body">classifieds.</text>
-  <rect x="18" y="652.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="676.52" class="section">Markets</text>
-  <text x="322" y="676.52" class="note" text-anchor="end">share · vs last wk</text>
-  <text x="18" y="704.52" class="row">TypeScript</text>
-  <text x="256" y="704.52" class="row num" text-anchor="end">75%</text>
-  <text x="322" y="704.52" class="row num" text-anchor="end" fill="#1e6b3a">▲ 75</text>
-  <text x="18" y="730.52" class="row">Python</text>
-  <text x="256" y="730.52" class="row num" text-anchor="end">25%</text>
-  <text x="322" y="730.52" class="row num" text-anchor="end" fill="#b3261e">▼ 8</text>
-  <rect x="18" y="762.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="786.52" class="section">Forecast</text>
-  <text x="18" y="812.52" class="side">75% chance of TypeScript, with scattered</text>
-  <text x="18" y="833.52" class="side">Python showers clearing ahead of the Friday</text>
-  <text x="18" y="854.52" class="side">deploy.</text>
-  <rect x="18" y="881.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="905.52" class="section">Classifieds</text>
-  <text x="18" y="931.52" class="side">Wanted: interesting problems and ambitious</text>
-  <text x="18" y="952.52" class="side">teams. Write to roystonad2004@gmail.com.</text>
-  <rect x="18" y="987.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="1011.52" class="section">On the workbench</text>
-  <text x="18" y="1043.52" class="repo">Raomly</text>
-  <circle cx="22" cy="1061.52" r="4" fill="#3178c6"/>
-  <text x="32" y="1066.52" class="meta">TypeScript  ·  today</text>
-  <text x="18" y="1089.52" class="side">No description on file. Our reporters are</text>
-  <text x="18" y="1110.52" class="side">investigating.</text>
-  <text x="18" y="1157.52" class="repo">Lisi-re-Luxury</text>
-  <circle cx="22" cy="1175.52" r="4" fill="#3178c6"/>
-  <text x="32" y="1180.52" class="meta">TypeScript  ·  3 days ago</text>
-  <text x="18" y="1203.52" class="side">Lisière-Luxury built using the capabilities</text>
-  <text x="18" y="1224.52" class="side">of agentic ai </text>
-  <text x="18" y="1271.52" class="repo">mcp-server</text>
-  <circle cx="22" cy="1289.52" r="4" fill="#3572a5"/>
-  <text x="32" y="1294.52" class="meta">Python  ·  5 days ago</text>
-  <text x="18" y="1317.52" class="side">No description on file. Our reporters are</text>
-  <text x="18" y="1338.52" class="side">investigating.</text>
-  <rect x="0" y="1371.52" width="340" height="34" fill="#1b1a17"/>
-  <svg x="0" y="1371.52" width="340" height="34"><g class="ticker" style="animation-duration:20s">
+  <text x="18" y="299.52" class="deck">Experts say more is on the way.</text>
+  <rect x="18" y="329.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="359.52" class="byline">By our GitHub correspondent  ·  26 Oct, 05:10 UTC</text>
+  <text x="16" y="436.52" class="dropcap" style="font-size:81px">R</text>
+  <text x="88" y="390.52" class="body">oyston Akash Dsouza, the</text>
+  <text x="88" y="413.52" class="body">full-stack developer behind</text>
+  <text x="88" y="436.52" class="body">Raomly, Lisi-re-Luxury and</text>
+  <text x="18" y="459.52" class="body">mcp-server, logged 12 commits this week</text>
+  <text x="18" y="482.52" class="body">across 3 repositories.</text>
+  <text x="18" y="511.52" class="body">When reached for comment, Dsouza said</text>
+  <text x="18" y="534.52" class="body">only that the project was “one more</text>
+  <text x="18" y="557.52" class="body">refactor away” from done. Readers hoping</text>
+  <text x="18" y="580.52" class="body">to collaborate are directed to the</text>
+  <text x="18" y="603.52" class="body">classifieds.</text>
+  <rect x="18" y="630.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="654.52" class="section">Markets</text>
+  <text x="322" y="654.52" class="note" text-anchor="end">share · vs last wk</text>
+  <text x="18" y="682.52" class="row">TypeScript</text>
+  <text x="256" y="682.52" class="row num" text-anchor="end">75%</text>
+  <text x="322" y="682.52" class="row num" text-anchor="end" fill="#1e6b3a">▲ 75</text>
+  <text x="18" y="708.52" class="row">Python</text>
+  <text x="256" y="708.52" class="row num" text-anchor="end">25%</text>
+  <text x="322" y="708.52" class="row num" text-anchor="end" fill="#b3261e">▼ 8</text>
+  <rect x="18" y="740.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="764.52" class="section">Forecast</text>
+  <text x="18" y="790.52" class="side">75% chance of TypeScript, with scattered</text>
+  <text x="18" y="811.52" class="side">Python showers clearing ahead of the Friday</text>
+  <text x="18" y="832.52" class="side">deploy.</text>
+  <rect x="18" y="859.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="883.52" class="section">Classifieds</text>
+  <text x="18" y="909.52" class="side">Wanted: interesting problems and ambitious</text>
+  <text x="18" y="930.52" class="side">teams. Write to roystonad2004@gmail.com.</text>
+  <rect x="18" y="965.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="989.52" class="section">On the workbench</text>
+  <text x="18" y="1021.52" class="repo">Raomly</text>
+  <circle cx="22" cy="1039.52" r="4" fill="#3178c6"/>
+  <text x="32" y="1044.52" class="meta">TypeScript  ·  today</text>
+  <text x="18" y="1067.52" class="side">No description on file. Our reporters are</text>
+  <text x="18" y="1088.52" class="side">investigating.</text>
+  <text x="18" y="1135.52" class="repo">Lisi-re-Luxury</text>
+  <circle cx="22" cy="1153.52" r="4" fill="#3178c6"/>
+  <text x="32" y="1158.52" class="meta">TypeScript  ·  3 days ago</text>
+  <text x="18" y="1181.52" class="side">Lisière-Luxury built using the capabilities</text>
+  <text x="18" y="1202.52" class="side">of agentic ai </text>
+  <text x="18" y="1249.52" class="repo">mcp-server</text>
+  <circle cx="22" cy="1267.52" r="4" fill="#3572a5"/>
+  <text x="32" y="1272.52" class="meta">Python  ·  5 days ago</text>
+  <text x="18" y="1295.52" class="side">No description on file. Our reporters are</text>
+  <text x="18" y="1316.52" class="side">investigating.</text>
+  <rect x="0" y="1349.52" width="340" height="34" fill="#1b1a17"/>
+  <svg x="0" y="1349.52" width="340" height="34"><g class="ticker" style="animation-duration:20s">
     <text x="0" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 12 ▲ 300%    ◆    PUBLIC REPOS 64    ◆    STARS ★ 13    ◆    FOLLOWERS 18    ◆    </text>
     <text x="806" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 12 ▲ 300%    ◆    PUBLIC REPOS 64    ◆    STARS ★ 13    ◆    FOLLOWERS 18    ◆    </text>
   </g></svg>
