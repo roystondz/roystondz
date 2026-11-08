@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 360 1431.52" width="360" height="1431.52" role="img" aria-label="The Daily Royston — COMMITS SURGE 283% AS WORK ON ROOFTOP-RUSH ACCELERATES">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 360 1453.52" width="360" height="1453.52" role="img" aria-label="The Daily Royston — COMMITS SURGE 360% AS WORK ON ROOFTOP-RUSH ACCELERATES">
   <defs>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
@@ -31,69 +31,70 @@
     @keyframes live { 50% { opacity: .15; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect width="340" height="1411.52" fill="#f5f0e4" filter="url(#shadow)"/>
-  <rect width="340" height="1411.52" filter="url(#grain)"/>
+  <rect width="340" height="1433.52" fill="#f5f0e4" filter="url(#shadow)"/>
+  <rect width="340" height="1433.52" filter="url(#grain)"/>
   <text x="170" y="44.519999999999996" class="mast" text-anchor="middle" textLength="304" lengthAdjust="spacingAndGlyphs">The Daily Royston</text>
   <text x="170" y="70.52" class="motto" text-anchor="middle">“All the code that’s fit to ship.”</text>
   <rect x="18" y="88.52" width="304" height="1" fill="#1b1a17"/>
-  <text x="170" y="108.52" class="edition" text-anchor="middle">NOV 7, 2026  ·  VOL. V  ·  NO. 1,471</text>
+  <text x="170" y="108.52" class="edition" text-anchor="middle">NOV 8, 2026  ·  VOL. V  ·  NO. 1,472</text>
   <rect x="18" y="118.52" width="304" height="3" fill="#1b1a17"/><rect x="18" y="123.52" width="304" height="1" fill="#1b1a17"/>
-  <text x="18" y="165.51999999999998" class="head">COMMITS SURGE 283%</text>
+  <text x="18" y="165.51999999999998" class="head">COMMITS SURGE 360%</text>
   <text x="18" y="195.51999999999998" class="head">AS WORK ON</text>
   <text x="18" y="225.51999999999998" class="head">ROOFTOP-RUSH</text>
   <text x="18" y="255.51999999999998" class="head">ACCELERATES</text>
   <text x="18" y="285.52" class="deck">Latest dispatch from rooftop-rush reads</text>
   <text x="18" y="307.52" class="deck">“Lob passes and chip shots, separate from</text>
-  <text x="18" y="329.52" class="deck">the normal ones”. Experts say more is on</text>
-  <text x="18" y="351.52" class="deck">the way.</text>
-  <rect x="18" y="381.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="411.52" class="byline">By our GitHub correspondent  ·  7 Nov, 06:27 UTC</text>
-  <text x="16" y="488.52" class="dropcap" style="font-size:81px">R</text>
-  <text x="88" y="442.52" class="body">oyston Akash Dsouza, the</text>
-  <text x="88" y="465.52" class="body">full-stack developer behind</text>
-  <text x="88" y="488.52" class="body">rooftop-rush,</text>
-  <text x="18" y="511.52" class="body">roystonakashdsouza.in and Raomly, logged</text>
-  <text x="18" y="534.52" class="body">23 commits this week across 1</text>
-  <text x="18" y="557.52" class="body">repository.</text>
-  <text x="18" y="586.52" class="body">When reached for comment, Dsouza said</text>
-  <text x="18" y="609.52" class="body">only that the project was “one more</text>
-  <text x="18" y="632.52" class="body">refactor away” from done. Readers hoping</text>
-  <text x="18" y="655.52" class="body">to collaborate are directed to the</text>
-  <text x="18" y="678.52" class="body">classifieds.</text>
-  <rect x="18" y="705.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="729.52" class="section">Markets</text>
-  <text x="322" y="729.52" class="note" text-anchor="end">share · vs last wk</text>
-  <text x="18" y="757.52" class="row">TypeScript</text>
-  <text x="256" y="757.52" class="row num" text-anchor="end">100%</text>
-  <text x="322" y="757.52" class="row num" text-anchor="end" fill="#1e6b3a">▲ 0</text>
-  <rect x="18" y="789.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="813.52" class="section">Forecast</text>
-  <text x="18" y="839.52" class="side">100% chance of TypeScript. Clear skies</text>
-  <text x="18" y="860.52" class="side">through the weekend.</text>
-  <rect x="18" y="887.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="911.52" class="section">Classifieds</text>
-  <text x="18" y="937.52" class="side">Wanted: interesting problems and ambitious</text>
-  <text x="18" y="958.52" class="side">teams. Write to roystonad2004@gmail.com.</text>
-  <rect x="18" y="993.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
-  <text x="18" y="1017.52" class="section">On the workbench</text>
-  <text x="18" y="1049.52" class="repo">rooftop-rush</text>
-  <circle cx="22" cy="1067.52" r="4" fill="#3178c6"/>
-  <text x="32" y="1072.52" class="meta">TypeScript  ·  4 days ago</text>
-  <text x="18" y="1095.52" class="side">No description on file. Our reporters are</text>
-  <text x="18" y="1116.52" class="side">investigating.</text>
-  <text x="18" y="1163.52" class="repo">roystonakashdsouza.in</text>
-  <circle cx="22" cy="1181.52" r="4" fill="#3178c6"/>
-  <text x="32" y="1186.52" class="meta">TypeScript  ·  8 days ago</text>
-  <text x="18" y="1209.52" class="side">No description on file. Our reporters are</text>
-  <text x="18" y="1230.52" class="side">investigating.</text>
-  <text x="18" y="1277.52" class="repo">Raomly</text>
-  <circle cx="22" cy="1295.52" r="4" fill="#3178c6"/>
-  <text x="32" y="1300.52" class="meta">TypeScript  ·  11 days ago</text>
-  <text x="18" y="1323.52" class="side">No description on file. Our reporters are</text>
-  <text x="18" y="1344.52" class="side">investigating.</text>
-  <rect x="0" y="1377.52" width="340" height="34" fill="#1b1a17"/>
-  <svg x="0" y="1377.52" width="340" height="34"><g class="ticker" style="animation-duration:20s">
-    <text x="0" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 23 ▲ 283%    ◆    PUBLIC REPOS 65    ◆    STARS ★ 13    ◆    FOLLOWERS 16    ◆    </text>
-    <text x="806" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 23 ▲ 283%    ◆    PUBLIC REPOS 65    ◆    STARS ★ 13    ◆    FOLLOWERS 16    ◆    </text>
+  <text x="18" y="329.52" class="deck">the normal ones”. Sources close to the</text>
+  <text x="18" y="351.52" class="deck">developer call it “a step in the right</text>
+  <text x="18" y="373.52" class="deck">direction.”</text>
+  <rect x="18" y="403.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="433.52" class="byline">By our GitHub correspondent  ·  8 Nov, 06:34 UTC</text>
+  <text x="16" y="510.52" class="dropcap" style="font-size:81px">R</text>
+  <text x="88" y="464.52" class="body">oyston Akash Dsouza, the</text>
+  <text x="88" y="487.52" class="body">full-stack developer behind</text>
+  <text x="88" y="510.52" class="body">rooftop-rush,</text>
+  <text x="18" y="533.52" class="body">roystonakashdsouza.in and Raomly, logged</text>
+  <text x="18" y="556.52" class="body">23 commits this week across 1</text>
+  <text x="18" y="579.52" class="body">repository.</text>
+  <text x="18" y="608.52" class="body">When reached for comment, Dsouza said</text>
+  <text x="18" y="631.52" class="body">only that the project was “one more</text>
+  <text x="18" y="654.52" class="body">refactor away” from done. Readers hoping</text>
+  <text x="18" y="677.52" class="body">to collaborate are directed to the</text>
+  <text x="18" y="700.52" class="body">classifieds.</text>
+  <rect x="18" y="727.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="751.52" class="section">Markets</text>
+  <text x="322" y="751.52" class="note" text-anchor="end">share · vs last wk</text>
+  <text x="18" y="779.52" class="row">TypeScript</text>
+  <text x="256" y="779.52" class="row num" text-anchor="end">100%</text>
+  <text x="322" y="779.52" class="row num" text-anchor="end" fill="#1e6b3a">▲ 0</text>
+  <rect x="18" y="811.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="835.52" class="section">Forecast</text>
+  <text x="18" y="861.52" class="side">100% chance of TypeScript. Clear skies</text>
+  <text x="18" y="882.52" class="side">through the weekend.</text>
+  <rect x="18" y="909.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="933.52" class="section">Classifieds</text>
+  <text x="18" y="959.52" class="side">Wanted: interesting problems and ambitious</text>
+  <text x="18" y="980.52" class="side">teams. Write to roystonad2004@gmail.com.</text>
+  <rect x="18" y="1015.52" width="304" height="1" fill="#1b1a17" opacity=".3"/>
+  <text x="18" y="1039.52" class="section">On the workbench</text>
+  <text x="18" y="1071.52" class="repo">rooftop-rush</text>
+  <circle cx="22" cy="1089.52" r="4" fill="#3178c6"/>
+  <text x="32" y="1094.52" class="meta">TypeScript  ·  5 days ago</text>
+  <text x="18" y="1117.52" class="side">No description on file. Our reporters are</text>
+  <text x="18" y="1138.52" class="side">investigating.</text>
+  <text x="18" y="1185.52" class="repo">roystonakashdsouza.in</text>
+  <circle cx="22" cy="1203.52" r="4" fill="#3178c6"/>
+  <text x="32" y="1208.52" class="meta">TypeScript  ·  9 days ago</text>
+  <text x="18" y="1231.52" class="side">No description on file. Our reporters are</text>
+  <text x="18" y="1252.52" class="side">investigating.</text>
+  <text x="18" y="1299.52" class="repo">Raomly</text>
+  <circle cx="22" cy="1317.52" r="4" fill="#3178c6"/>
+  <text x="32" y="1322.52" class="meta">TypeScript  ·  12 days ago</text>
+  <text x="18" y="1345.52" class="side">No description on file. Our reporters are</text>
+  <text x="18" y="1366.52" class="side">investigating.</text>
+  <rect x="0" y="1399.52" width="340" height="34" fill="#1b1a17"/>
+  <svg x="0" y="1399.52" width="340" height="34"><g class="ticker" style="animation-duration:20s">
+    <text x="0" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 23 ▲ 360%    ◆    PUBLIC REPOS 65    ◆    STARS ★ 13    ◆    FOLLOWERS 16    ◆    </text>
+    <text x="806" y="22" class="tick" xml:space="preserve">COMMITS THIS WEEK 23 ▲ 360%    ◆    PUBLIC REPOS 65    ◆    STARS ★ 13    ◆    FOLLOWERS 16    ◆    </text>
   </g></svg>
 </svg>
